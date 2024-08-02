@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+    <head></head>
+    <body>
+        <iframe src="" frameborder="1" title="youtube player" name="player"></iframe> <br>
+        <a href="https://www.youtube.com/embed/_uQrJ0TkZlc?si=GVBgEcJ7O4dzW4KL" target="player">
+        <img src="https://www.iconfinder.com/icons/3146788/youtube_logo_icon" width="80px" alt="">
+        </a>
+    </body>
+</html>
